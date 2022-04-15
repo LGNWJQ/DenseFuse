@@ -72,7 +72,7 @@
 | tensorboard_step | 控制对Tensorboard的写入周期，单位为参数迭代次数              |
 | use_lr_scheduler | 是否使用学习率调度，从零开始训练建议设置为True，可以进入train.py的67行左右对其内部参数进行进一步修改 |
 
-* 设置完成参数后，运行**train.py**即可运行：
+* 设置完成参数后，运行**train.py**即可开始训练：
 
 ```python
 parser.add_argument('--image_path', default='C:/Users/WJQpe/Desktop/DataSets/MSCOCO/train2014', type=str, help='训练集路径')
