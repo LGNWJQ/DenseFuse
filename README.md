@@ -23,7 +23,7 @@
 │  ├─fusion_result_Road
 │  └─fusion_result_TNO
 |
-├─logs           	# 用于存储训练过程中产生的Tensorboard文件
+├─logs           	# 用于存储训练过程中产生的Tensorboard文件,这里不提供（文件过大，无法上传）
 │  
 ├─pytorch_msssim 	# 用于计算SSIM损失，来自官方代码库
 |
