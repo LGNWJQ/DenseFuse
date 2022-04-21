@@ -6,7 +6,7 @@
 
 * 本代码库的实现为**电子科技大学-信息与通信工程学院-通信工程系-综合课程设计**的一部分
 
-* 这是[Densefuse](https://arxiv.org/abs/1804.08361)的非官方PyTorch实现，参考官方代码库[DenseFuse](https://github.com/hli1221/imagefusion_densefuse)进行实现，并进行一定程度的改进
+* 这是[Densefuse](https://arxiv.org/abs/1804.08361)的非官方PyTorch实现，参考官方代码库[DenseFuse](https://github.com/hli1221/imagefusion_densefuse)进行实现，并进行了一定程度的改进（使用较新的PyTorch版本，规避了原代码库中的一些版本较低和不常用的包）
 
 * 论文参考：*H. Li, X. J. Wu, “DenseFuse: A Fusion Approach to Infrared and Visible Images,” IEEE Trans. Image Process., vol. 28, no. 5, pp. 2614–2623, May. 2019.*
 
