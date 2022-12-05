@@ -178,62 +178,6 @@ Process finished with exit code 0
 
 
 
-## 模型结构
-
-### 训练阶段
-
-![](https://raw.githubusercontent.com/LGNWJQ/picgo/main/DenseFuse-Refactoring-of-PyTorch/f2.jpg)
-
-
-
-### 融合测试阶段
-
-![](https://raw.githubusercontent.com/LGNWJQ/picgo/main/DenseFuse-Refactoring-of-PyTorch/f1.jpg)
-
-## 一些融合结果
-
-### Gray
-* 红外和可见光图像
-
-<img src="https://raw.githubusercontent.com/LGNWJQ/picgo/main/DenseFuse-Refactoring-of-PyTorch/IR20.png" width="900" />
-
-<img src="https://raw.githubusercontent.com/LGNWJQ/picgo/main/DenseFuse-Refactoring-of-PyTorch/VIS20.png" width="900" />
-
-* 融合图像
-
-<img src="https://raw.githubusercontent.com/LGNWJQ/picgo/main/DenseFuse-Refactoring-of-PyTorch/fusion20.png" width="900" />
-
-
-
-### RGB
-
-* 过曝光和欠曝光图像
-
-<img src="https://raw.githubusercontent.com/LGNWJQ/picgo/main/DenseFuse-Refactoring-of-PyTorch/EX4G.png" width="900" />
-
-<img src="https://raw.githubusercontent.com/LGNWJQ/picgo/main/DenseFuse-Refactoring-of-PyTorch/EX4Q.png" width="900" />
-
-* 融合图像
-
-
-<img src="https://raw.githubusercontent.com/LGNWJQ/picgo/main/DenseFuse-Refactoring-of-PyTorch/EXfusion4.png" width="900" />
-
----
-
-* 过曝光和欠曝光图像
-
-
-<img src="https://raw.githubusercontent.com/LGNWJQ/picgo/main/DenseFuse-Refactoring-of-PyTorch/EX19G.png" width="900" />
-
-<img src="https://raw.githubusercontent.com/LGNWJQ/picgo/main/DenseFuse-Refactoring-of-PyTorch/EX19Q.png" width="900" />
-
-* 融合图像
-
-
-<img src="https://raw.githubusercontent.com/LGNWJQ/picgo/main/DenseFuse-Refactoring-of-PyTorch/EXfusion19.png" width="900" />
-
-
-
 
 
 
