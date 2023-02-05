@@ -1,4 +1,4 @@
-# Densefuse
+# DenseFuse
 
 * 这是[Densefuse](https://arxiv.org/abs/1804.08361)的非官方PyTorch实现，参考官方代码库[DenseFuse](https://github.com/hli1221/imagefusion_densefuse)进行实现，并进行了一定程度的改进（使用较新的PyTorch版本，规避了原代码库中的一些版本较低和不常用的包）
 
